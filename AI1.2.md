@@ -13,13 +13,13 @@
 > 10.0-10.5 GHz 帯(第二地域) 日本は、ITU-R における対象帯域での既存業務との共用・両立性検討の実施を支持する。
 
 ## IARU暫定見解 (分割、強調はこのメモで付加。文はそのまま)
-The IARU opposes
-* the identification of the band 10.0-10.5 GHz for IMT in Region 2 as well as
-* the introduction of a mobile service allocation in the region, which would be a necessary precursor to its identification for IMT.
-
-**Spectrum sharing with a mass market deployment of mobile systems** can be challenging and experiences have shown that **the legal implications of national IMT licensing processes and service provider requirements tend to result in removal of national amateur service assignments** which can severely affect the development of amateur radio.
-
-Considering j) of Resolution 245 (WRC-19) notes that **harmonized worldwide arrangements for IMT are “highly desirable;”** it logically follows that an undesirable regional identification for IMT must be weighed against the continuing requirements of incumbent services. While studies are only invited with regard to the protection of primary services, **considering k) and l) and recognizing c) of the resolution make no distinction between primary and secondary allocations with regard to the need to protect existing services.** The use and evolving needs of the **amateur and amateur-satellite services must not be overlooked** as an undesirable regional arrangement for IMT is being considered. The IARU requests that **the special status of 10.45- 10.5 GHz as a worldwide amateur-satellite allocation with no mobile allocation** be respected.
+> The IARU opposes
+> * the identification of the band 10.0-10.5 GHz for IMT in Region 2 as well as
+> * the introduction of a mobile service allocation in the region, which would be a necessary precursor to its identification for IMT.
+>
+> **Spectrum sharing with a mass market deployment of mobile systems** can be challenging and experiences have shown that **the legal implications of national IMT licensing processes and service provider requirements tend to result in removal of national amateur service assignments** which can severely affect the development of amateur radio.
+>
+> Considering j) of Resolution 245 (WRC-19) notes that **harmonized worldwide arrangements for IMT are “highly desirable;”** it logically follows that an undesirable regional identification for IMT must be weighed against the continuing requirements of incumbent services. While studies are only invited with regard to the protection of primary services, **considering k) and l) and recognizing c) of the resolution make no distinction between primary and secondary allocations with regard to the need to protect existing services.** The use and evolving needs of the **amateur and amateur-satellite services must not be overlooked** as an undesirable regional arrangement for IMT is being considered. The IARU requests that **the special status of 10.45- 10.5 GHz as a worldwide amateur-satellite allocation with no mobile allocation** be respected.
 
 ### 分析
 IARUは、議題の抜粋部分そのものに反対。
