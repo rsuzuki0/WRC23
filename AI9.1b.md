@@ -44,6 +44,8 @@
     * https://storage.iaru-r1.org/index.php/s/BtpxWjL7La7syr7
   * [23cm Band and RNSS – Compromises need to be found](https://www.iaru.org/2022/23cm-band-and-rnss-compromises-need-to-be-found/)
 
+* [情報通信審議会 情報通信技術分科会 衛星通信システム委員会報告 資料 119-1-2](https://www.soumu.go.jp/main_content/000427597.pdf)
+
 ## 基本的な対策軸
 本件議題は、支持する、しないという次元の話ではとっくになくなっており、アマチュア無線界を代表するIARUが常に最大限に検討や議論に関与し、シミュレーションや計算に使われる前提條件やパラメーターが実際のアマチュアの実情に即しているか、などを確認するよう、また必要以上の制約が課されぬように最大限の配慮を求めていく、というのが現段階では最も現実的で建設的な軸ではないかと考える。加えて、新たな制約はRadio Regulations(RR、無線通信規則)のレベルで規制するのではなく、勧告などで国毎の事情を勘案する余地を残すように求める。
 
