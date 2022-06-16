@@ -34,6 +34,16 @@
 * CW, SSB, FMなどの狭帯域変調波と、ATVなどの広帯域変調波では、RNSS受信への干渉の度合いが違う。また、RNSS信号(非常に広帯域)の中心周波数とアマチュア波の周波数の差も影響する。このようなことは、WP 4Cで検討さてきたが、この議題を論じるコメントで立ち入ってしまうと、先走りすぎる感が強い。
 * 1.2GHzはギガヘルツ域のアマチュアバンドでは最も運用しやすいとは言え、送信頻度や送信時間のデューティー比、運用局の密度などの面では十分に低く、トータルの干渉を一定に抑えるという観点から、これらの要素を妥当に織り込んだ検討をすれば、アマチュア業務ができなくなるようほどの制約にはならないのではないかと想像される。
 
+## 参照文書
+詳細は、ITU-R 4C/333報告文書を。
+
+* [IARU continues engagement in the WRC-23 preparations](https://www.iaru-r1.org/2021/iaru-continues-engagement-in-the-wrc-23-preparations/)
+* IARU による1200MHz関連のニュースと見解
+  * [23cm band and Sat-Nav Coexistence: Studies maturing in ITU‑R WP4C](https://www.iaru.org/2022/23cm-band-and-sat-nav-coexistence-studies-maturing-in-itu-r-wp4c/)
+    * https://www.iaru.org/wp-content/uploads/2022/05/IARU-Report-from-WP4C_May-2022.docx
+    * https://storage.iaru-r1.org/index.php/s/BtpxWjL7La7syr7
+  * [23cm Band and RNSS – Compromises need to be found](https://www.iaru.org/2022/23cm-band-and-rnss-compromises-need-to-be-found/)
+
 ## 基本的な対策軸
 本件議題は、支持する、しないという次元の話ではとっくになくなっており、アマチュア無線界を代表するIARUが常に最大限に検討や議論に関与し、シミュレーションや計算に使われる前提條件やパラメーターが実際のアマチュアの実情に即しているか、などを確認するよう、また必要以上の制約が課されぬように最大限の配慮を求めていく、というのが現段階では最も現実的で建設的な軸ではないかと考える。加えて、新たな制約はRadio Regulations(RR、無線通信規則)のレベルで規制するのではなく、勧告などで国毎の事情を勘案する余地を残すように求める。
 
