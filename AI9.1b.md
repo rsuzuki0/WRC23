@@ -32,6 +32,16 @@
 
 (IARU暫定見解の英文解釈面で、難しいことはないように思われる。)
 
+IARU G4SJHの2022年6月のスライド(Amateur / RNSS Coexistence in the 23cm band)のp.13最後に、
+> At WRC, some countries may try to mandate the guidance in the Radio Regs by incorporation by reference or through an updated WRC Resolution.
+
+とあるが、これは、WP5AのCPM textドラフトの最後の最後にある、
+> ITU-R is developing a Recommendation ITU-R M.[AS.GUIDANCE] providing guidelines in order to avoid such cases of harmful interference to the RNSS receivers in the future. This Recommendation could include, inter alia, encouragement of the use of specific sub-bands with sufficient frequency offsets from the spectrum main lobes of RNSS signals to enhance the protection of RNSS receivers in the bands under consideration.
+>
+> These guidelines are intended to assist administrations and the amateur and amateur-satellite services to ensure the protection of the RNSS (space-to-earth) in the frequency band 1 240-1 300 MHz.
+
+では拘束力が足らないというような発言が、どこかの国から出てきたということを、滲ませているように思う。(こういう会議では、議事録にも報告書にも出ない事項は漏らさない、特に発言者が特定できるような発言内容は漏らさない決まり)
+
 ## その他の関連背景
 * CW, SSB, FMなどの狭帯域変調波と、ATVなどの広帯域変調波では、RNSS受信への干渉の度合いが違う。また、RNSS信号(非常に広帯域)の中心周波数とアマチュア波の周波数の差も影響する。このように、WP 4Cではやや詳細に検討さてきたし、必要な措置に関しても、同様に詳細に検討されるものと予想されるが、今回のパブコメで立ち入ってしまうと、先走りすぎる感が強い。
 * WP 4Cでは、干渉からの保護に必要な措置の程度や内容などについては、RNSS信号の中心周波数との関係(近いほど干渉が強い)、アマチュアの電波形式の帯域(広いほど干渉が強い)、などの面を考慮した出力規制案が複数検討されているが、今回のパブコメでは、技術や運用面での制約内容を例示したり、その程度などを具体的に議論することは、まだできない。先走ったコメントを出さぬよう注意されたい。
@@ -51,7 +61,10 @@
 
 2022年6月のITU-R WP 5A会合では、CPM(Conference Preparatory Meeting、WRC-23本会議に向けた準備会合)テキストのドラフト作業や、RNSS保護に関する勧告のドラフトも進んできて、今後のうごきの方向性もだいぶ明確になってきた。
 * https://www.iaru.org/wp-content/uploads/2022/06/Report-from-WP5A_June-2022-FINAL.pdf
-* https://www.iaru.org/wp-content/uploads/2022/06/23cm-Band-and-RNSS-June2022.pdf
+* [Amateur / RNSS Coexistence in the 23cm band](https://www.iaru.org/wp-content/uploads/2022/06/23cm-Band-and-RNSS-June2022.pdf)
+
+* [597. Report on the twenty-seventh meeting of Working Party 5A (Geneva, 23 May - 3 June 2022)](https://www.itu.int/md/R19-WP5A-C-0597/en)
+これのAnnex 6にWRC-23 AI 9.1bのCPM textドラフトが収載。
 
 ## 基本的な対策軸
 本件議題は、支持する、しないという次元の話ではとっくになくなっており、ITUの機関でもあり、アマチュア無線界を代表するIARUが常に最大限に検討や議論に関与し、シミュレーションや計算に使われる前提條件やパラメーターが実際のアマチュアの実情に即しているか、などを確認するよう、また必要以上の制約が課されぬように最大限の配慮を求めていく、というのが現段階では最も現実的で建設的な軸ではないかと考える。加えて、新たな制約はRadio Regulations(RR、無線通信規則)のレベルで規制するのではなく、勧告などで国毎の事情を勘案して実施する余地を残すように求める。
