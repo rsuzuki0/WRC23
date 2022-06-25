@@ -1,6 +1,5 @@
 # Agenda Item 1.12 傾向と対策
 
-
 ## AI 1.12 原文
 > 1.12 to conduct, and complete in time for WRC-23, studies for a possible new secondary allocation to the Earth exploration-satellite (active) service for spaceborne radar sounders within the range of frequencies around 45 MHz, taking into account the protection of incumbent services, including in adjacent bands, in accordance with Resolution 656 (Rev.WRC-19);
 
@@ -38,3 +37,6 @@ Rec. ITU-R RS.2042-1には、
 * Typical technical and operating characteristics for spaceborne radar sounder systems using the 40-50 MHz band [Recommendation ITU-R RS.2042-1 (12/2018)](https://www.itu.int/dms_pubrec/itu-r/rec/rs/R-REC-RS.2042-1-201812-I!!PDF-E.pdf)
 
 ## コメント例
+議題1.12のレーダーサウンダーに関して、Rec. ITU-R RS.2042-1によると送信帯域は10MHz(受信帯域は中間周波数レベルで12MHz)となってはいるが、広帯域信号であるためもっと広がりがあり、実際にはその10MHzの帯域外にも相当に強い電力密度のあるスペクトルで送信されるようであり、隣接帯域への干渉が懸念される。
+隣接する50MHz帯のアマチュア業務(現存業務)では、特にバンド下端(50.0-50.5 MHz)付近で電離層反射や異常伝搬を活用した遠距離通信が行なわれる。このような通信では他の業務と比べて微弱な信号を使用するので、レーダーサウンダーは地域限定で間欠運用とはいえ、アマチュア業務の十分な保護に関しては、特段の配慮が必要である。
+新規分配可能性の検討段階においては、ITUの機関であり、アマチュア無線界の利益を代表するInternational Amateur Radio Union(IARU)の十分な関与を保証して、アマチュア業務の保護の程度が十分であるという確証が得られるように要望する。
