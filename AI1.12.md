@@ -6,6 +6,7 @@
 
 ## AI 1.12 総務省
 > 議題 1.12 45 MHz 帯衛星搭載レーダーサウンダーのための地球探査衛星業務(能動)への新規二次分配のための検討の実施
+>
 > <議題の概要>
 > 45 MHz周辺の周波数の範囲においてスペースボーンレーダーサウンダー用途に地球探査衛星業務(EESS)(能動)への新規二次分配の可能性について、隣接帯域を含む既存業務の保護を考慮しつつ、検討するもの。
 
@@ -15,9 +16,7 @@
 ## IARU暫定見解
 > The IARU believes that the studies for a possible new secondary allocation to the Earth exploration-satellite (active) service for spaceborne radar sounders within the range of frequencies around 45 MHz should include the need to protect the incumbent amateur service in the adjacent 50-54 MHz band. The IARU will contribute to the studies to ensure adequate protection of the sensitive receivers used by stations in the amateur service in the 50-54 MHz band, especially the frequencies 50-50.5 MHz where the majority of amateur communication via the ionosphere is conducted, often with very low signal levels.
 
-### 分析
-IARUは、反対しないものの、慎重な検討を要請。
-
+## 分析
 Rec. ITU-R RS.2042-1には、
 > The spaceborne sounding radar will operate at a centre frequency of 45 MHz covering a 10 MHz bandwidth.
 
@@ -29,10 +28,13 @@ Rec. ITU-R RS.2042-1には、
 
 とあり、運用地域はグリーンランド、北アフリカ、アラビア半島、南極大陸に限定され、間欠運用になるとされる。
 
-限られた情報から、アマチュア業務への影響を推測するのは難しい。
+限られた情報から、アマチュア業務への影響を推測するのは難しい。IARUは、反対しないものの、慎重な検討を要請。
+
+## その他の関連背景
+* このレーダーサウンダーでは、地下資源を透視したいので、敢えて45MHzという低い周波数を使う。
 
 ## 参照文書
 * [Resolution 656 (Rev.WRC-19)](https://www.itu.int/dms_pub/itu-r/oth/0C/0A/R0C0A00000F00137PDFE.pdf)
-* Recommendation ITU-R RS.2042-1 (12/2018) [Typical technical and operating characteristics for spaceborne radar sounder systems using the 40-50 MHz band](https://www.itu.int/dms_pubrec/itu-r/rec/rs/R-REC-RS.2042-1-201812-I!!PDF-E.pdf)
+* Typical technical and operating characteristics for spaceborne radar sounder systems using the 40-50 MHz band [Recommendation ITU-R RS.2042-1 (12/2018)](https://www.itu.int/dms_pubrec/itu-r/rec/rs/R-REC-RS.2042-1-201812-I!!PDF-E.pdf)
 
 ## コメント例
